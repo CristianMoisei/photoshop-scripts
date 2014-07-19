@@ -1,4 +1,4 @@
-Centered Guides Script
+<h3>Centered Guides Script</h3>
 
 While the scripts do not do mutch, they can save you considerable time by allowing you to create both vertical and horizontal guides at the very centre of the document using only a keyboard shortcut.
 
